@@ -1,0 +1,110 @@
+Crach.png
+size: 521,660
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crach1
+  rotate: false
+  xy: 0, 0
+  size: 213, 145
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+crach2
+  rotate: false
+  xy: 0, 188
+  size: 213, 145
+  orig: 213, 145
+  offset: 0, 0
+  index: -1
+crach3
+  rotate: false
+  xy: 0, 357
+  size: 213, 145
+  orig: 213, 145
+  offset: 0, 0
+  index: -1
+crach4
+  rotate: false
+  xy: 265, -1
+  size: 213, 145
+  orig: 213, 145
+  offset: 0, 0
+  index: -1
+crach5
+  rotate: false
+  xy: 265, 185
+  size: 213, 145
+  orig: 213, 145
+  offset: 0, 0
+  index: -1
+crach6
+  rotate: false
+  xy: 265, 520
+  size: 213, 145
+  orig: 213, 145
+  offset: 0, 0
+  index: -1
+crach7
+  rotate: false
+  xy: 506, 0
+  size: 211, 154
+  orig: 211, 154
+  offset: 0, 0
+  index: -1
+crach8
+  rotate: false
+  xy: 506, 253
+  size: 211, 154
+  orig: 211, 154
+  offset: 0, 0
+  index: -1
+crach9
+  rotate: false
+  xy: 506, 494
+  size: 211, 154
+  orig: 211, 154
+  offset: 0, 0
+  index: -1
+crach10
+  rotate: false
+  xy: 738, 0
+  size: 190, 154
+  orig: 190, 154
+  offset: 0, 0
+  index: -1
+crach11
+  rotate: false
+  xy: 738, 253
+  size: 190, 154
+  orig: 190, 154
+  offset: 0, 0
+  index: -1
+crach12
+  rotate: false
+  xy: 738, 492
+  size: 190, 154
+  orig: 190, 154
+  offset: 0, 0
+  index: -1
+crach13
+  rotate: false
+  xy: 936, 0
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+crach14
+  rotate: false
+  xy: 936, 256
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+crach15
+  rotate: false
+  xy: 936 ,492
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
